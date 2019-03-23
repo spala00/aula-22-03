@@ -1,0 +1,25 @@
+h1{
+    color: ;
+    text-align: center;
+}
+
+input{
+    height: 24px;
+    border: none;
+    background-color: beige;
+    border-radius: 8px;
+
+}
+
+.input-group{
+    margin-bottom: 16px;
+}
+
+label{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1:hover{
+    font-size: 100px;
+    transition: 1s;
+}
